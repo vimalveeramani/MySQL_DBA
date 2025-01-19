@@ -13,3 +13,4 @@ SELECT
     -- PS_CURRENT_THREAD_ID(),  -- MySQL 8.0.16+
     UUID_SHORT(),   -- integer
     UUID()   
+;
