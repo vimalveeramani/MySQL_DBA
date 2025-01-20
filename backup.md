@@ -1,16 +1,4 @@
 
-## Table of Contents
-1. [How to Backup a Single MySQL Database?](#how-to-backup-a-single-mysql-database)
-2. [How to Backup Multiple MySQL Databases?](#how-to-backup-multiple-mysql-databases)
-3. [How to Backup All MySQL Databases?](#how-to-backup-all-mysql-databases)
-4. [How to Backup All MySQL Databases into Separate Backup Files for Each Database?](#how-to-backup-all-mysql-databases-into-separate-backup-files-for-each-database)
-5. [How to Create a Compressed MySQL Database Backup?](#how-to-create-a-compressed-mysql-database-backup)
-6. [How to Run MySQL Database Backup in nohup?](#how-to-run-mysql-database-backup-in-nohup)
-7. [How to Backup Specific Tables in a Database?](#how-to-backup-specific-tables-in-a-database)
-8. [How to Backup Each Table in a Separate Backup File?](#how-to-backup-each-table-in-a-separate-backup-file)
-
----
-
 ## 1. How to Backup a Single MySQL Database?
 
 ```bash
