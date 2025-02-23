@@ -1,0 +1,4 @@
+SELECT ROUTINE_NAME
+FROM information_schema.ROUTINES
+WHERE ROUTINE_TYPE = 'PROCEDURE'
+  AND ROUTINE_SCHEMA = 'your_database_name';
