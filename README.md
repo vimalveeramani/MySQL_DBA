@@ -34,12 +34,6 @@ This repository includes:
 ```
 
 ## 🚀 Getting Started
-### Prerequisites
-- MySQL 8.0+ (Aurora MySQL 8.0.39 supported)
-- AWS CLI (for S3 backup automation)
-- ProxySQL (for load balancing)
-- Percona Toolkit (for monitoring & tuning)
-- PMM (Percona Monitoring & Management for MySQL)
 
 ### Installation & Usage
 1. Clone the repository:
@@ -48,9 +42,6 @@ This repository includes:
    cd MySQL_DBA
    ```
 2. Customize scripts as needed and execute them based on the requirements.
-
-## 📖 Documentation
-Refer to the detailed documentation in each folder for instructions on usage and best practices.
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to submit pull requests or open issues for bug reports and feature requests.
